@@ -150,5 +150,5 @@ http://localhost:5000
 
 ## Author
 
-[Your Name] — Aspiring SOC Analyst  
-[LinkedIn] | [TryHackMe Profile] | [Email]
+Naganandhini — Aspiring SOC Analyst  
+Linkedin - Nandhini GM | TryHackMe Profile - TraceOfNand | Email-nandhinigmn@gmail.com
