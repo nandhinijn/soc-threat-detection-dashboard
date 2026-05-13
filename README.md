@@ -148,7 +148,3 @@ http://localhost:5000
 
 ---
 
-## Author
-
-Naganandhini — Aspiring SOC Analyst  
-Linkedin - Nandhini GM | TryHackMe Profile - TraceOfNand | Email-nandhinigmn@gmail.com
